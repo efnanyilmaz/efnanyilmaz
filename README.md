@@ -4,7 +4,7 @@ Full-stack geliştiriciyim. Bir ürünü veritabanından ve gerçek zamanlı bac
 
 ### Projeler
 
-#### [Dizi Senkron](https://dizi-senkron.vercel.app)    [Google Play](https://play.google.com/store/apps/details?id=com.dizisenkron.app)
+#### [Dizi Senkron](https://dizi-senkron.vercel.app)  |  [Google Play](https://play.google.com/store/apps/details?id=com.dizisenkron.app)
 
 Aynı diziyi izleyen arkadaş gruplarının bir bölümü birlikte ve eş zamanlı izlemesini sağlayan bir uygulamadır. Grup sohbeti, her üyenin bulunduğu bölüme göre spoiler içeren mesajları otomatik olarak gizler; üyelerin ilerlemesi grup içinde görünür. Uygulama web ve Android olarak sunulmakta, iOS sürümü hazırlanmaktadır. Tek bir backend her iki platforma da hizmet verir.
 
