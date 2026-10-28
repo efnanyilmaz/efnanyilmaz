@@ -12,7 +12,7 @@ Aynı diziyi izleyen arkadaş gruplarının bir bölümü birlikte ve eş zamanl
 
 #### [Aurelia](https://aurelia-restaurant-website-template.vercel.app)
 
-Satışa yönelik hazırladığım bir restoran web sitesi şablonudur. Framework ve build adımı gerektirmez, tek klasörden çalışır. Kod bilgisi istemeyen görsel bir kurulum sihirbazı, sepet destekli WhatsApp sipariş akışı ve çift dil desteği içerir.
+Sıfırdan tasarlayıp kodladığım, satışa yönelik bir restoran web sitesi şablonudur. Framework ve build adımı gerektirmez, tek klasörden çalışır. Kod bilgisi istemeyen görsel bir kurulum sihirbazı, sepet destekli WhatsApp sipariş akışı ve çift dil desteği içerir.
 
 > `HTML` · `CSS` · `JavaScript`
 
