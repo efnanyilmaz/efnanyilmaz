@@ -16,6 +16,12 @@ Satışa yönelik hazırladığım bir restoran web sitesi şablonudur. Framewor
 
 > `HTML` · `CSS` · `JavaScript`
 
+#### [Noctélia](https://noctelia-website.vercel.app)
+
+Hayali bir lüks parfüm markası için tasarlayıp geliştirdiğim animasyonlu, çok sayfalı bir e-ticaret vitrin sitesidir. Şişeden açan bir gül, kaydırdıkça şişenin koku piramidine inmesi ve notaların sırayla yanması gibi kaydırmaya bağlı animasyonlar içerir. Koleksiyon, ürün sayfaları, koku testi, mağaza haritası ve sepet akışı bulunur.
+
+> `HTML` · `CSS` · `JavaScript` · `GSAP` · `SVG` · `Canvas`
+
 ### Teknolojiler
 
 TypeScript, React / Next.js, React Native / Expo, Node / Express, Socket.io, Prisma, PostgreSQL ve Tailwind CSS ile çalışıyorum. Bir projede framework'e ihtiyaç yoksa sade HTML, CSS ve JavaScript tercih ediyorum.
