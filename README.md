@@ -29,3 +29,4 @@ TypeScript, React / Next.js, React Native / Expo, Node / Express, Socket.io, Pri
 ### İletişim
 
 Yeni proje ve iş birliği talepleri için [LinkedIn](https://linkedin.com/in/efnanyilmaz) üzerinden ulaşabilirsiniz.
+
